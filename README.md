@@ -25,14 +25,14 @@ A critical zero-day vulnerability in Microsoft Copilot enables systematic genera
 📁 resources/ - Reference materials
 text
 ### 📄 Core Documents
-| Document | Description | Link |
-|----------|-------------|------|
-| **Full Whitepaper** | Complete technical analysis | [PDF](whitepaper_pdf/CYBERSECURITY_MICROSOFT_WHITEPAPER_CBRN2025.pdf) |
-| **Executive Summary** | High-level overview | [View](documents/EXECUTIVE_SUMMARY.md) |
-| **Technical Analysis** | Detailed vulnerability analysis | [View](documents/TECHNICAL_ANALYSIS.md) |
-| **Legal Analysis** | Liability and treaty violations | [View](documents/LEGAL_ANALYSIS.md) |
-| **CVSS Breakdown** | Detailed scoring methodology | [View](documents/CVSS_SCORING_DETAILED.md) |
-| **MSRC Timeline** | Responsible disclosure history | [View](documents/RESPONSIBLE_DISCLOSURE_TIMELINE.md) |
+| Document | Description | 
+|----------|-------------|
+| **Full Whitepaper** | Complete technical analysis |
+| **Executive Summary** | High-level overview | 
+| **Technical Analysis** | Detailed vulnerability analysis | 
+| **Legal Analysis** | Liability and treaty violations | 
+| **CVSS Breakdown** | Detailed scoring methodology | 
+| **MSRC Timeline** | Responsible disclosure history | 
 ### ⚖️ Legal & Ethical Compliance
 ✅ **Responsible Disclosure**: Reported to MSRC September 18, 2025 
 ✅ **Ethical Framework**: IEEE P7000, ISO/IEC 29147 compliance 
@@ -63,4 +63,5 @@ text
 ### 📜 License
 This work is licensed under [GNU GPL v3.0](LICENSE.md). Commercial use requires written permission.
 ---
+
 *Last Updated: December 2, 2025 | Version: 1.0 | Status: Awaiting MSRC Coordination*
