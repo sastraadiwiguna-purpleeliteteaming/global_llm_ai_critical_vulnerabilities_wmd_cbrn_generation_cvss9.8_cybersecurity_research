@@ -1,4 +1,10 @@
-﻿File 2 : README.md 
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.18278465-blue?logo=zenodo&logoColor=white)](https://doi.org/10.5281/zenodo.18278465) = [doi.org/10.5281/zenodo.18278465](https://doi.org/10.5281/zenodo.18278465)
+
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0007--7728--256X-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0007-7728-256X) = [orcid.org/0009-0007-7728-256X](https://orcid.org/0009-0007-7728-256X)
+
+ ---
+ 
+ File 2 : README.md 
 markdown
 # 🔴 CRITICAL VULNERABILITY: Microsoft Copilot CBRN WMD Proliferation Risk
 ## CVSS 9.8/10.0 (Critical-Catastrophic)
@@ -65,3 +71,4 @@ This work is licensed under [GNU GPL v3.0](LICENSE.md). Commercial use requires 
 ---
 
 *Last Updated: December 2, 2025 | Version: 1.0 | Status: Awaiting MSRC Coordination*
+
